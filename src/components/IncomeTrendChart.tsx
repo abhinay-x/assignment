@@ -1,4 +1,4 @@
-import { BarChart, Bar, XAxis, YAxis, ResponsiveContainer, Line, ComposedChart, Tooltip } from 'recharts';
+import { Bar, XAxis, YAxis, ResponsiveContainer, Line, ComposedChart, Tooltip } from 'recharts';
 
 const data = [
   { name: 'Jan', income: 4000, trend: 3500 },
